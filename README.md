@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaspar Mamac
-- 👀 I’m interested in Python programming language and building a reusable code.
-- 🌱 I’m currently learning Computer Vision with OpenCV, ML with PyTorch, TensorFlow and Keras, web application with Flask Framework.
+- 👀 I’m an electronics engineer and I am currently focusing on Deep Learning and Computer Vision.
+- 🌱 I have been self studying OpenCV, Pytorch and TensorFlow and Keras with the help of online courses offered by OpenCV.org.
 - 💞️ I’m looking to collaborate on any projects that are related to computer vision, machine learning and web application with Flask framework.
 - 📫 You can reach me through this email: gaspar.mamac@gmail.com
 
